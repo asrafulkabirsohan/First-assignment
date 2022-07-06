@@ -237,12 +237,40 @@ h2 {
     margin-right: 20%;
 }
 
+input {
+    margin-top: 40px;
+    margin-left: 200px;
+    margin-bottom: 40px;
+    padding: 15px;
+    width: 300px;
+    border: none;
+    border-radius: 5px;
+}
+
+input [type="text"] {
+    background-color: #707070;
+    width: 340px;
+}
+
+.eightSecBtn {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: #FF5959;
+    border-radius: 5px;
+    border: none;
+    padding: 15px;
+    width: 100px;
+}
+
+
+
 
 .eightSec-Second-Div {
+
     margin-right: 20%;
     margin-bottom: 80px;
     background-color: #FFF4D6;
-
+    display: flex;
 }
 
 .footer {
