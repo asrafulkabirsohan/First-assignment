@@ -47,6 +47,7 @@ h1 {
 
 h2 {
     font-size: 40px;
+    display: inline-block;
 }
 
 
@@ -90,4 +91,127 @@ h2 {
 .dv-input {
     border: none;
     outline: none;
+
+}
+
+.third-section {
+
+    padding-top: 120px;
+    padding-left: 20%;
+    padding-right: 20%;
+    color: white;
+    text-align: center;
+}
+
+.fourth-section {
+    margin-left: 15%;
+    display: flex;
+    padding-right: 40px;
+    margin-bottom: 120px;
+    color: white;
+
+
+}
+
+.fourthSec-first-Div {
+    width: 25%;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 30px;
+    background-color: #EEF6F7;
+    color: gray;
+    border-radius: 5px;
+}
+
+.fourthSec-second-Div {
+    width: 25%;
+    margin-left: 15px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #FFEEEE;
+    color: black;
+    border-radius: 5px;
+}
+
+.fourthSec-Third-Div {
+    width: 25%;
+    margin-left: 15px;
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: #FFF4D6;
+    color: black;
+    border-radius: 5px;
+}
+
+.thirdSecP {
+    text-align: left;
+    color: gray;
+}
+
+.fourthSec-img {
+    padding-right: 200px;
+}
+
+
+.Donto {
+    text-align: left;
+    color: black;
+    font-size: 20px;
+}
+
+.fifth-section {
+    margin-left: 15%;
+    margin-bottom: 120px;
+    display: flex;
+}
+
+.fifthSec-first-Div {
+    width: 40%;
+    margin-right: 40px;
+}
+
+.fifthSecP {
+    color: gray;
+    margin-bottom: 30px;
+}
+
+.fifthSec-second-Div {
+    margin-top: 30px;
+    border-radius: 5px;
+    width: 40%;
+    margin-right: 30px;
+}
+
+.fifthSecImg {
+    width: 100%;
+}
+
+.six-section {
+    margin-left: 15%;
+    margin-bottom: 120px;
+    display: flex;
+}
+
+.sixsec-first-Div {
+    margin-top: 50px;
+    border-radius: 5px;
+    width: 40%;
+    margin-right: 40px;
+}
+
+.sixsecimg {
+    width: 100%;
+}
+
+.SixSec-second-Div {
+    width: 40%;
+    margin-right: 30px;
+}
+
+.SixSecP {
+    color: gray;
+    margin-bottom: 30px;
 }
