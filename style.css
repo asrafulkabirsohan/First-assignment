@@ -230,6 +230,26 @@ input [type="email"] {
     margin-bottom: 30px;
 }
 
+.SpacialSec {
+    margin-top: 60px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 20px;
+    width: 80%;
+    display: flex;
+}
+
+.SpacialSec-div {
+    width: 100%;
+}
+
+.SpacialSecImg1 {
+    margin-left: 30px;
+    width: 20%;
+    box-shadow: 10px 10px 40px gray;
+    margin-right: 15px;
+}
+
 .Seven-Sec {
     margin-top: 20px;
     margin-left: 20%;
