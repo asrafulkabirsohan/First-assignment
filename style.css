@@ -323,8 +323,10 @@ input [type="text"] {
     padding-left: 44%;
     padding-right: 40%;
 
-    color: red;
-    font-size: 30px;
+    color: brown;
+    font-family: 'Lobster', cursive;
+    ;
+    font-size: 28px;
     font-weight: 400px;
     text-align: center;
 }
