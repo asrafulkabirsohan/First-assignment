@@ -191,7 +191,7 @@ h2 {
 
 .six-section {
     margin-left: 15%;
-    margin-bottom: 120px;
+    margin-bottom: 40px;
     display: flex;
 }
 
@@ -214,4 +214,59 @@ h2 {
 .SixSecP {
     color: gray;
     margin-bottom: 30px;
+}
+
+.Seven-Sec {
+    margin-top: 20px;
+    margin-left: 20%;
+    color: white;
+    text-align: center;
+}
+
+#SevenSecp {
+    color: gray;
+    margin-bottom: 30px;
+
+}
+
+.SevenSech2 {
+    color: black;
+}
+
+.eightSec-first-Div {
+    margin-right: 20%;
+}
+
+
+.eightSec-Second-Div {
+    margin-right: 20%;
+    margin-bottom: 80px;
+    background-color: #FFF4D6;
+
+}
+
+.footer {
+    background-color: black;
+    margin: 0;
+}
+
+#footerh2 {
+    padding-top: 40px;
+    padding-left: 44%;
+    padding-right: 40%;
+
+    color: red;
+    font-size: 30px;
+    font-weight: 400px;
+    text-align: center;
+}
+
+#footerh5 {
+    color: white;
+    padding-left: 44%;
+    padding-right: 40%;
+    padding-bottom: 40px;
+    font-weight: 50;
+    text-align: center;
+    margin-bottom: 0;
 }
